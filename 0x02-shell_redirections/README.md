@@ -25,4 +25,6 @@
 
 # ls -t1 | head -n 10 - displays the 10 newest files
 
-#   
+# sort | uniq -u | list the words as input and prints only words that appear exactly once.
+
+#    
