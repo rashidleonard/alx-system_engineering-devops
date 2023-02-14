@@ -21,4 +21,8 @@
 
 # find . -type f -name "*.js" -delete - deletes regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
 
-# find . -type d -not -name '.' | wc -l - counts the number of directories adn subdirectories  
+# find . -type d -not -name '.' | wc -l - counts the number of directories adn subdirectories
+
+# ls -t1 | head -n 10 - displays the 10 newest files
+
+#   
