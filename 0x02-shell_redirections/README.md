@@ -5,3 +5,7 @@
 # cat /etc/passwd - Displaying the contect of the file
 
 # cat /etc/passwd /etc/hosts - Displaying the contents of two files
+
+# tail -n 10 /etc/passwd - Displays the last 10 lines of the file /etc/passwd
+
+
