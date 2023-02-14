@@ -12,4 +12,6 @@
 
 # head -n 3 iacta | tail -n 1 - Displays the 3rd line of the file iacta
 
+# o "Best School" > \\\\\\\"'\"Best School\"\\'"\\\\\\$\\\?\\\\\\\\\\\\\\\*\:\) - script contains the textBest School"
 
+# 
