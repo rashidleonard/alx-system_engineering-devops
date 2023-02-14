@@ -16,4 +16,6 @@
 
 # ls -la > ls_cwd_content - overwrites the content of the file
 
-# 
+# tail -n 1 iacta >> iacta - makes a duplicate of the last line of the file iacta
+
+#  
