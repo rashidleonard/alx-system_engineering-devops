@@ -11,8 +11,9 @@
 # head -n 10 /etc/passwd - Dispalys the first 10 lines of the file /etc/passwd
 
 # head -n 3 iacta | tail -n 1 - Displays the 3rd line of the file iacta
+ 
 
-# o "Best School" > \\\*\\\\"'\"Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\) - script contains the text Best School
+#"Best School" > \\\*\\\\"'\"Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\) - script contains the text Best School
 
 # ls -la > ls_cwd_content - overwrites the content of the file
 
@@ -20,4 +21,4 @@
 
 # find . -type f -name "*.js" -delete - deletes regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
 
-#   
+# find . -type d -not -name '.' | wc -l - counts the number of directories adn subdirectories  
